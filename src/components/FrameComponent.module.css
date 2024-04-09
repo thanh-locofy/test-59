@@ -1,0 +1,343 @@
+.logoIcon {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.logoWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 var(--padding-10xs-1);
+}
+.theFastestAnd {
+  flex: 1;
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  font-weight: 700;
+  max-width: 100%;
+  z-index: 1;
+}
+.theFastestAndSimpleWayToWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-10xs-1);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.iconSystem {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.filterFunction {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.hellodhuhacreativecom {
+  position: relative;
+  line-height: 26px;
+  font-weight: 700;
+  white-space: nowrap;
+  z-index: 1;
+}
+.valuePairCreator {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs-1);
+}
+.iconslack {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.iconslackWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.joinOurSlack {
+  position: relative;
+  line-height: 26px;
+  font-weight: 700;
+  z-index: 1;
+}
+.errorHandler {
+  flex-direction: row;
+  gap: var(--gap-2xs);
+}
+.conditionSplitter,
+.errorHandler,
+.outputGenerator {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.outputGenerator {
+  flex-direction: row;
+  padding: 0 var(--padding-7xs) 0 var(--padding-10xs-1);
+}
+.conditionSplitter {
+  flex-direction: column;
+  gap: var(--gap-xs);
+}
+.frameDiv {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.frameContainer,
+.frameDiv,
+.frameGroup {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frameGroup {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frameContainer {
+  width: 346.1px;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-sm);
+  box-sizing: border-box;
+  min-width: 346.10000000000036px;
+}
+.benefits,
+.features,
+.landingPages,
+.pricing,
+.product {
+  position: relative;
+  display: inline-block;
+  font-weight: 700;
+  z-index: 1;
+}
+.product {
+  line-height: 20px;
+  min-width: 63px;
+}
+.benefits,
+.features,
+.landingPages,
+.pricing {
+  line-height: 26px;
+}
+.landingPages {
+  min-width: 111px;
+  white-space: nowrap;
+}
+.benefits,
+.features,
+.pricing {
+  min-width: 56px;
+}
+.benefits,
+.features {
+  min-width: 65px;
+}
+.features {
+  min-width: 71px;
+}
+.landingPagesParent,
+.productParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.landingPagesParent {
+  gap: var(--gap-xs);
+  color: var(--greyscale-grey-pale);
+}
+.productParent {
+  gap: var(--gap-base);
+}
+.about,
+.company {
+  position: relative;
+  display: inline-block;
+  font-weight: 700;
+  z-index: 1;
+}
+.company {
+  line-height: 20px;
+  color: var(--white);
+  min-width: 72px;
+}
+.about {
+  line-height: 26px;
+  min-width: 47px;
+}
+.privacyPolicy {
+  display: inline-block;
+  min-width: 109px;
+}
+.contact,
+.partners,
+.privacyPolicy,
+.termsConditions {
+  position: relative;
+  line-height: 26px;
+  font-weight: 700;
+  z-index: 1;
+}
+.termsConditions {
+  white-space: nowrap;
+}
+.contact,
+.partners {
+  display: inline-block;
+  min-width: 70px;
+}
+.contact {
+  min-width: 62px;
+}
+.companyParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-smi-4);
+  min-width: 149px;
+}
+.resources {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  font-weight: 700;
+  color: var(--white);
+  min-width: 84px;
+  z-index: 1;
+}
+.blog,
+.guidesAndResources,
+.support,
+.tools {
+  position: relative;
+  line-height: 26px;
+  font-weight: 700;
+  z-index: 1;
+}
+.guidesAndResources {
+  white-space: nowrap;
+}
+.blog,
+.support,
+.tools {
+  display: inline-block;
+  min-width: 35px;
+}
+.support,
+.tools {
+  min-width: 42px;
+}
+.support {
+  min-width: 63px;
+}
+.anchorPoints {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-smi-5);
+  min-width: 110px;
+}
+.anchorPoints,
+.frameParent1,
+.frameParent2 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent2 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  gap: var(--gap-24xl);
+  min-width: 235px;
+  max-width: 100%;
+  color: var(--greyscale-grey-pale);
+}
+.frameParent1 {
+  width: 553px;
+  gap: var(--gap-62xl);
+  min-width: 553px;
+  color: var(--white);
+}
+.frameParent,
+.frameParent1,
+.frameWrapper {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.frameParent {
+  width: 1116.1px;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frameWrapper {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--greyscale-grey-pale);
+  font-family: var(--font-chivo);
+}
+@media screen and (max-width: 1125px) {
+  .frameContainer,
+  .frameParent1 {
+    flex: 1;
+  }
+  .frameParent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .frameParent1 {
+    flex-wrap: wrap;
+    gap: 81px 40px;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frameContainer {
+    min-width: 100%;
+  }
+  .companyParent {
+    flex: 1;
+  }
+  .frameParent2 {
+    flex-wrap: wrap;
+    gap: 43px 21px;
+  }
+  .frameParent1 {
+    gap: 81px 20px;
+  }
+}
